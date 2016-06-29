@@ -14,11 +14,11 @@ It was made with (http://tmtheme-editor.herokuapp.com) and we appreciate the pro
 
 For more info visit (https://github.com/aziz/tmTheme-Editor).
 
-We want to thank to (https://github.com/aziz/tmTheme-Editor), the creator of theme used at https://angular.io  and (https://angular.io) itself beacuse they are the reason for creation of RealGithub theme.
+We want to thank to (https://github.com/aziz/tmTheme-Editor), the creator of theme used at https://angular.io  and (https://angular.io) itself beacuse they are the reason for creation of Angular-io-Code theme.
 
 # Mismatch
 
-If you find any mismatch from github's theme plase make a new Issue or new Pull Request to this repository not to any other repository part of our organization.
+If you find any mismatch from angular.io's theme plase make a new Issue or new Pull Request to this repository not to any other repository part of our organization.
 
 # Pull Request
 
